@@ -1,5 +1,5 @@
 spinkit-js
 ==========
 
-Javascript Implementation of the Spinkit Pure CSS Spinners
+Javascript Implementation of pure CSS spinners from Spinkit:
 http://tobiasahlin.com/spinkit/
